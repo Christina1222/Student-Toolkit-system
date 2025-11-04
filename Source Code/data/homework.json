@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Software Assignment",
+    "subject": "AMCS1034 - SOFTWARE DEVELOPMENT FUNDAMENTALS (4 credits)",
+    "due": "2025-09-14",
+    "status": "Pending",
+    "details": "Souce Code and Reports",
+    "priority": "High"
+  },
+  {
+    "title": "Civic Assessment 3",
+    "subject": "MPU-2202 - CIVIC CONSCIOUSNESS AND VOLUNTEERISM",
+    "due": "2025-09-12",
+    "status": "Pending",
+    "details": "",
+    "priority": "Medium"
+  }
+]
